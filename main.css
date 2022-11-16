@@ -156,7 +156,7 @@ body {
 /* End Header */
 /* Start Landing Section */
   .landing {
-    background-image: url(../Images/mountain.jpeg);
+    background-image: url(mountain.jpeg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
@@ -299,15 +299,15 @@ body {
   height: 250px;
 }
 .portfolio-content .col:first-child .image {
-  background-image: url(../Images/laptop1.jpg);
+  background-image: url(laptop1.jpg);
   background-size: cover;
 }
 .portfolio-content .col:nth-child(2) .image {
-  background-image: url(../Images/book.jpg);
+  background-image: url(book.jpg);
   background-size: cover;
 }
 .portfolio-content .col:last-child .image {
-  background-image: url(../Images/laptop2.jpg);
+  background-image: url(laptop2.jpg);
   background-size: cover;
 }
 /* لو الصور قد بعضها */
